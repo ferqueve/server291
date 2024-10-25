@@ -24,7 +24,7 @@ El servidor responde a varias rutas y permite interactuar con un conjunto de dat
 
 1. Clona el repositorio.
    
-   git clone [<URL-del-repositorio>](https://github.com/ferqueve/server291.git)
+   git clone [<https://github.com/ferqueve/server291.git>](https://github.com/ferqueve/server291.git)
 
 2. Instala las dependencias.
   ```bash 
