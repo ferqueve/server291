@@ -27,7 +27,7 @@ El servidor responde a varias rutas y permite interactuar con un conjunto de dat
    git clone [<URL-del-repositorio>](https://github.com/ferqueve/server291.git)
 
 2. Instala las dependencias.
-   
+  ```bash 
    npm install
    ```
 
