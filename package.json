@@ -1,0 +1,16 @@
+{
+  "name": "servidorv2",
+  "version": "1.0.0",
+  "description": "Servidor con más polenta",
+  "main": "app.js",
+  "scripts": {
+    "dev" : "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupazo 291",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
